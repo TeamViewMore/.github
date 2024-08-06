@@ -50,7 +50,7 @@
 
 | <center> 김현지 </center>                                                                          | <center> 목소연 </center>                                                                         | <center> 윤윤지 </center> |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| <center> <img width="140px" src="https://github.com/user-attachments/assets/d39b3597-7c74-4dc5-8cb7-e984cef5b66c"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/d2c82e9f-1769-4118-b068-01382584d74b"></center> |
+| <center> <img width="140px" src="https://github.com/user-attachments/assets/d39b3597-7c74-4dc5-8cb7-e984cef5b66c"></center> | <center> <img width="130px" src="https://github.com/user-attachments/assets/ffdbe72a-54a3-4a47-98c1-dc5bb004224e"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/d2c82e9f-1769-4118-b068-01382584d74b"></center> |
 | <center> 역할1 </center>                                                                            | <center> 역할2 </center>                                                                           | <center> 역할3 </center>               |
 | <center> [@khjhyunji](https://github.com/khjhyunji) </center>                                   | <center> [@mogg22](https://github.com/mogg22) </center>                                           | <center> [@Yunji-Yun](https://github.com/Yunji-Yun) </center> |
 
@@ -63,6 +63,7 @@
 | <center> [@7beunseo](https://github.com/7beunseo) </center>                                          |<center> [@gyurili](https://github.com/gyurili) </center>                                       | <center> [@20210815](https://github.com/20210815) </center> |
 
 <br><br>
+
 
 ### 🔥 기술 스택
 
