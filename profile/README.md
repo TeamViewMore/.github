@@ -6,7 +6,9 @@
 
 <br><br>
 ### 📙 프로젝트 소개
-프로젝트 소개 문구
+>*당신의 안전을 지키는 건강한 연애의 시작* <br>
+
+데이트 폭력 증거 기록 서비스, 폭신(poksin)
 
 <br><br>
 
@@ -16,13 +18,26 @@
 <br><br>
 
 ### ✨ 주요 기능
-#### 1. 주요 기능 1번
-* 증거 업로드 관련 기능 소개
-* 관련 페이지 사진 첨부<br>
-  <br>
-이미지 넣기
+#### 1. 캘린더
+* 캘린더에 데이트 폭력 증거를 기록해요<br><br>
+![image](https://github.com/user-attachments/assets/576efe20-6fcf-47d1-b91e-26f6c6906c02)
 
-<br><br>
+<br>
+
+#### 2. 자료 업로드 / 1:1 채팅
+* 증거를 업로드하면 캘린더에 기록돼요<br>
+* 어렵거나 힘든 일은 상담사와 의논해요<br><br>
+![image](https://github.com/user-attachments/assets/d4cbc6de-36b6-4ee3-8c95-9a09266fe10b)
+
+<br>
+
+#### 3. 가이드라인 / 연애 건강도 자가진단
+* 데이트 폭력 신고를 위한 증거 수집 가이드라인을 알려드려요<br>
+* 테스트를 통해 연애 상태를 점검해 보아요<br><br>
+![image](https://github.com/user-attachments/assets/91ef8908-64fb-4628-933d-be8186c364d2)
+
+<br>
+
 
 ### 개발기간
 2024.07.21 ~ 2024.08.06
@@ -35,7 +50,7 @@
 
 | <center> 김현지 </center>                                                                          | <center> 목소연 </center>                                                                         | <center> 윤윤지 </center> |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> |
+| <center> <img width="150px" src="https://github.com/user-attachments/assets/d39b3597-7c74-4dc5-8cb7-e984cef5b66c"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/9aeddfb2-8a0e-4709-90f2-3d2491ecd37c"></center> |
 | <center> 역할1 </center>                                                                            | <center> 역할2 </center>                                                                           | <center> 역할3 </center>               |
 | <center> [@khjhyunji](https://github.com/khjhyunji) </center>                                   | <center> [@mogg22](https://github.com/mogg22) </center>                                           | <center> [@Yunji-Yun](https://github.com/Yunji-Yun) </center> |
 
@@ -43,7 +58,7 @@
 
 | <center> 김은서 </center>                                                                         | <center> 박규리 </center>                                                                         | <center> 이규민 </center> |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| <center> <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> |
+| <center> <center> <img width="150px" src="https://github.com/user-attachments/assets/75d81142-9c9f-4bf8-91ca-27348c5b9832"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/0fc4b4d3-5a84-4081-9df7-2f6c38cb0a79"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> |
 | <center> 역할1 </center>                                                                            | <center> 역할2 </center>                                                                         | <center> 역할3 </center>               |
 | <center> [@7beunseo](https://github.com/7beunseo) </center>                                          |<center> [@gyurili](https://github.com/gyurili) </center>                                       | <center> [@20210815](https://github.com/20210815) </center> |
 
