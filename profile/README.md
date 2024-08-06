@@ -50,7 +50,7 @@
 
 | <center> 김현지 </center>                                                                          | <center> 목소연 </center>                                                                         | <center> 윤윤지 </center> |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| <center> <img width="150px" src="https://github.com/user-attachments/assets/d39b3597-7c74-4dc5-8cb7-e984cef5b66c"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/9aeddfb2-8a0e-4709-90f2-3d2491ecd37c"></center> |
+| <center> <img width="140px" src="https://github.com/user-attachments/assets/d39b3597-7c74-4dc5-8cb7-e984cef5b66c"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/d2c82e9f-1769-4118-b068-01382584d74b"></center> |
 | <center> 역할1 </center>                                                                            | <center> 역할2 </center>                                                                           | <center> 역할3 </center>               |
 | <center> [@khjhyunji](https://github.com/khjhyunji) </center>                                   | <center> [@mogg22](https://github.com/mogg22) </center>                                           | <center> [@Yunji-Yun](https://github.com/Yunji-Yun) </center> |
 
@@ -58,7 +58,7 @@
 
 | <center> 김은서 </center>                                                                         | <center> 박규리 </center>                                                                         | <center> 이규민 </center> |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| <center> <center> <img width="150px" src="https://github.com/user-attachments/assets/75d81142-9c9f-4bf8-91ca-27348c5b9832"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/0fc4b4d3-5a84-4081-9df7-2f6c38cb0a79"></center> | <center> <img width="150px" src="https://avatars.githubusercontent.com/u/128278212?v=4"></center> |
+| <center> <center> <img width="120px" src="https://github.com/user-attachments/assets/75d81142-9c9f-4bf8-91ca-27348c5b9832"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/0fc4b4d3-5a84-4081-9df7-2f6c38cb0a79"></center> | <center> <img width="120px" src="https://github.com/user-attachments/assets/b28cb648-3726-41f0-b173-6cc0b0621c84"></center> |
 | <center> 역할1 </center>                                                                            | <center> 역할2 </center>                                                                         | <center> 역할3 </center>               |
 | <center> [@7beunseo](https://github.com/7beunseo) </center>                                          |<center> [@gyurili](https://github.com/gyurili) </center>                                       | <center> [@20210815](https://github.com/20210815) </center> |
 
