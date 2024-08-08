@@ -13,7 +13,15 @@
 <br><br>
 
 ### 🙌 개발 배경
-개발 배경 안내 텍스트
+최근에 유명 유튜버의 안타까운 데이트 폭력 소식이 있었습니다. 데이트 폭력은 최근 3년간 57% 증가했습니다. 
+
+데이트 폭력 신고를 위해서는 증거를 남기는 것이 가장 중요합니다. 그러나 피해자는 복잡한 신고 절차, 보복에 대한 두려움, 또한, ‘연인 관계’라는 특수성을 반영한 법의 부재로 인해서 신고를 주저하고 있습니다.
+
+따라서 저희는 증거를 꾸준히 기록하여 신고 절차를 간소화할 수 있도록 **'데이트 폭력 증거 기록 서비스' 폭신**을 개발했습니다.  
+
+폭신을 통해 교제 폭력에 많은 관심을 갖고, 교제폭력에 대한 법안이 마련되어서, 궁극적으로는 데이트 폭력이 더 감소하길 기대해볼 수 있을 것입니다. 
+
+
 
 <br><br>
 
@@ -50,16 +58,14 @@
 
 | <center> 김현지 </center>                                                                          | <center> 목소연 </center>                                                                         | <center> 윤윤지 </center> |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| <center> <img width="140px" src="https://github.com/user-attachments/assets/d39b3597-7c74-4dc5-8cb7-e984cef5b66c"></center> | <center> <img width="130px" src="https://github.com/user-attachments/assets/ffdbe72a-54a3-4a47-98c1-dc5bb004224e"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/d2c82e9f-1769-4118-b068-01382584d74b"></center> |
-| <center> 역할1 </center>                                                                            | <center> 역할2 </center>                                                                           | <center> 역할3 </center>               |
+| <center> <img width="140px" src="https://github.com/user-attachments/assets/d39b3597-7c74-4dc5-8cb7-e984cef5b66c"></center> | <center> <img width="130px" src="https://github.com/user-attachments/assets/ffdbe72a-54a3-4a47-98c1-dc5bb004224e"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/d2c82e9f-1769-4118-b068-01382584d74b"></center> |                                                                        
 | <center> [@khjhyunji](https://github.com/khjhyunji) </center>                                   | <center> [@mogg22](https://github.com/mogg22) </center>                                           | <center> [@Yunji-Yun](https://github.com/Yunji-Yun) </center> |
 
 ### Back-end
 
 | <center> 김은서 </center>                                                                         | <center> 박규리 </center>                                                                         | <center> 이규민 </center> |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
-| <center> <center> <img width="120px" src="https://github.com/user-attachments/assets/75d81142-9c9f-4bf8-91ca-27348c5b9832"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/0fc4b4d3-5a84-4081-9df7-2f6c38cb0a79"></center> | <center> <img width="120px" src="https://github.com/user-attachments/assets/b28cb648-3726-41f0-b173-6cc0b0621c84"></center> |
-| <center> 역할1 </center>                                                                            | <center> 역할2 </center>                                                                         | <center> 역할3 </center>               |
+| <center> <center> <img width="120px" src="https://github.com/user-attachments/assets/75d81142-9c9f-4bf8-91ca-27348c5b9832"></center> | <center> <img width="150px" src="https://github.com/user-attachments/assets/0fc4b4d3-5a84-4081-9df7-2f6c38cb0a79"></center> | <center> <img width="120px" src="https://github.com/user-attachments/assets/b28cb648-3726-41f0-b173-6cc0b0621c84"></center>|           
 | <center> [@7beunseo](https://github.com/7beunseo) </center>                                          |<center> [@gyurili](https://github.com/gyurili) </center>                                       | <center> [@20210815](https://github.com/20210815) </center> |
 
 <br><br>
